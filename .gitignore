@@ -1,0 +1,11 @@
+/.idea
+/.ipynb_checkpoints
+
+# /data
+*.pyc
+*.pkl
+*.csv
+*.json
+
+
+
